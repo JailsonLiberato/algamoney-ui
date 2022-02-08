@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #404C51;
+  margin: 0;
+}
+
+label{
+  font-weight: bold;
+}
+
+.wid100{
+  width: 100%;
+}
+
+.mar-right3{
+  margin-right: 3%;
+}
+
+.mar-right1{
+  margin-right: 1%;
+}
+
+.mar-bottom1{
+  margin-bottom: 1%;
+}
+
+.dblock{
+  display: block;
+}
+
+.container{
+  width: 95%;
+  margin: 0 auto;
+}
+
